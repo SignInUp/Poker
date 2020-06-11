@@ -74,7 +74,7 @@ public class GameSettings : MonoBehaviour
 
     public void StartButton()
     {
-        // Check for minimum count of players
+        // Check for minimum valid count of players
         var activePlayersCount = 0;
         for (var i = 0; i < ChairsCount; ++i)
         {

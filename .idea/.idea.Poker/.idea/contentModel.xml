@@ -9,6 +9,7 @@
         <e p="Scripts" t="Include">
           <e p="Chair.cs" t="Include" />
           <e p="GameLogic" t="Include">
+            <e p="Action.cs" t="Include" />
             <e p="Card.cs" t="Include" />
             <e p="CardDeck.cs" t="Include" />
             <e p="GameMaster.cs" t="Include" />
